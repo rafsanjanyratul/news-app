@@ -1,8 +1,8 @@
+
 import Image from 'next/image';
 import React from 'react';
 import img from '@/assets/logo.png'
 import { format } from "date-fns";
-
 
 const Header = () => {
     return (
